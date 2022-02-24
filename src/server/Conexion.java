@@ -30,8 +30,9 @@ public class Conexion {
             DatagramPacket Peticion = new DatagramPacket(BF, BF.length);
         } catch (Exception e) {
         }
-        
     }
+    
+    //corroborarlo
     public static int GetPuerto(int puerto){
         //a
         return puerto;
