@@ -7,7 +7,7 @@ package server;
 
 /**
  *
- * @author david
+ * @author david & crespo
  */
 public class Server {
 
