@@ -32,7 +32,7 @@ public class Conexion {
         }
     }
     
-    //corroborarlo
+    //corroborarlo x
     public static int GetPuerto(int puerto){
         //a
         return puerto;
