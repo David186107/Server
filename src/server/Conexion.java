@@ -14,7 +14,7 @@ import java.net.InetAddress;
  * @author david
  */
 public class Conexion {
-    //Aqui hare una conexion
+    //Aqui hare una conexion 
     static int Puerto = 0; //Se modificara luego, por el momento lo dejare asi
     InetAddress Direccion = null; //se dara una direccion luego
     static byte [] BF = new byte[1024];
