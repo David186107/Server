@@ -5,6 +5,10 @@
  */
 package server;
 
+//git log (ver cambuios)
+//git pull (subir cambios de todos)
+//git push (subir mis cambios)
+
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
