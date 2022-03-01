@@ -32,17 +32,17 @@ public class Conexion {
         }
     }
     
-    //corroborarlo x
     public static int GetPuerto(int puerto){
-        //a
+        //Al conectar el cliente con el servidor se abre este metodo que toma el puerto del cliente
         return puerto;
     }
     public static InetAddress GetDireccion(InetAddress Direccion){
-        
+        //Al conectar el cliente con el servidor se abre este metodo que toma la direccion del cliente
         return Direccion;
     }
     public static void SetLista(){
-        
+        //Cuando el cliente se conecte a este programa, se tiene que iniciar
+        //Este metodo que enviara una lista de los archivos que se pueden enviar
     }
     public static void SetDatosObjeto(String nombre){
         //Busqueda del objeto por el nombre y 
